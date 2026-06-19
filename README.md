@@ -1,6 +1,8 @@
-# Currency API 💱
+# 💱 Currency API
 
-API REST para conversão de moedas em tempo real usando Spring Boot.
+REST API de conversão de moedas em **tempo real** usando Spring Boot 3.
+
+🔗 [Documentação Swagger](http://localhost:8080/swagger-ui/index.html)
 
 ## 🚀 Tecnologias
 - Java 17
